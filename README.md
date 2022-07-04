@@ -4,7 +4,7 @@ By **{Zablon Onchari Nyabuto}**
 ## Description
 This website is for a real estate by the name of Vallie's Estate. The website allows one to choose a property of their liking according to their location and price range. The website provides different payment options that clients can use as well as extra support for any of their needs.
 ## Setup/Installation Requirements
-* To run this app, render the following link - https://github.com/Zablon-Onchari-Nyabuto/project-real-estate
+* To run this app, render the following link - https://github.com/Zablon-Onchari-Nyabuto/Vallie-s-Estate
 * No dependencies are needed to use this app and it can run on any server provided you have access to data bundles
 ## Known Bugs
 The website is still in development phase and the payment options provided may not be update. However, potential clients can reach out to the developer in case of any issues with regards to that for further assistance
