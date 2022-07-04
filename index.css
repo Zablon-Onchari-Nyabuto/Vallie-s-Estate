@@ -1,0 +1,13 @@
+html{
+    background-color: white;
+}
+div{
+    align-content: left;
+}
+image{
+    float: left;
+}
+footer{
+    background-color: blue;
+    color: white;
+}
